@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/css/main.6f674cd7.css",
+    "main.css": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/css/main.b869fe41.css",
     "main.js": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/js/main.71f93366.js",
     "index.html": "/LukaszKiwala/goit-react-hw-03-image-finder.git/index.html",
-    "main.6f674cd7.css.map": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/css/main.6f674cd7.css.map",
+    "main.b869fe41.css.map": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/css/main.b869fe41.css.map",
     "main.71f93366.js.map": "/LukaszKiwala/goit-react-hw-03-image-finder.git/static/js/main.71f93366.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f674cd7.css",
+    "static/css/main.b869fe41.css",
     "static/js/main.71f93366.js"
   ]
 }
